@@ -1,6 +1,6 @@
 # Ticket Trader Privacy Policy
 
-_Effective date: November 6, 2026_
+_Effective date: November 7, 2026_
 
 Ticket Trader ("we", "us") is an app that helps fans trade event tickets with each other. This policy explains what information the app collects, how it's used, and the choices you have.
 
@@ -12,6 +12,7 @@ Ticket Trader ("we", "us") is an app that helps fans trade event tickets with ea
 - **Profile details:** your home city, if you add it.
 - **Your teams and sports:** the teams and sports you choose to follow, and any teams you say you hold season tickets for. Only you can see them.
 - **Transfer details:** the name and email you want tickets sent to. Only people whose trade you've accepted can see these.
+- **Payment details:** the usernames, phone numbers or emails you add for Venmo, Cash App, PayPal, Apple Cash or Zelle; the cash amount in a trade; and when each person marked it sent or received. We never see, handle or hold the payment itself.
 - **Tickets:** the events, sections, rows, seats, and ticket sites (for example Ticketmaster) of tickets you add.
 - **Trades:** offers you send and receive, their messages, when an offer was first seen, each step of the ticket transfer, and deadlines.
 - **Trade problems:** what you write when you report a problem with a trade or add your side. The other person in the trade can read this too. If you email us screenshots, we keep them in our support inbox, not in the app.
@@ -43,6 +44,11 @@ We don't sell your personal information, and we don't share it for advertising.
 - Your listed tickets.
 - Your messages, only to the person you're chatting with. They can also see when you've read their messages and when you first opened their trade offer.
 - Your transfer name and email, only to the other person in a trade you've accepted.
+- Your payment usernames, only to someone paying you cash in a trade you've accepted.
+
+## Payment apps
+
+When you tap a payment button, the app opens Venmo, Cash App or PayPal with the amount and the other person's username filled in. You pay in that app, under its own terms and privacy policy. We don't receive your payment account details or card numbers.
 
 ## What Ticket Trader staff can see
 
